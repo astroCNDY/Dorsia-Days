@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Class\ representing\ an\ item\ in\ the\ game.\n\ Each\ item\ has\ a\ name,\ weight,\ and\ a\ property\ indicating\ if\ it\ can\ be\ carried.\n
+comment1.params=name\ weight\ canBeCarried
+comment1.target=Item(java.lang.String,\ double,\ boolean)
+comment1.text=\n\ Constructor\ to\ create\ an\ item.\n\ @param\ name\ The\ name\ of\ the\ item.\n\ @param\ weight\ The\ weight\ of\ the\ item.\n\ @param\ canBeCarried\ Indicates\ if\ the\ item\ can\ be\ carried\ by\ the\ player.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=double\ getWeight()
+comment4.params=
+comment4.target=boolean\ canBeCarried()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

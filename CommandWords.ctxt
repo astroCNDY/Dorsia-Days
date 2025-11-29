@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\n\ Class\ that\ holds\ a\ list\ of\ all\ valid\ command\ words.\n\ Used\ for\ command\ recognition\ in\ the\ game.\n
+comment1.params=aString
+comment1.target=boolean\ isCommand(java.lang.String)
+comment2.params=
+comment2.target=void\ showAll()
+numComments=3

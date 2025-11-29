@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Npc
+comment1.params=name\ dialogue\ heldItem\ assignedrooms
+comment1.target=Npc(java.lang.String,\ java.lang.String,\ Item,\ java.util.List)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getDialogue()
+comment4.params=
+comment4.target=Room\ getCurrentRoom()
+comment5.params=
+comment5.target=Item\ getHeldItem()
+comment6.params=item
+comment6.target=void\ setHeldItem(Item)
+comment7.params=room
+comment7.target=void\ setCurrentRoom(Room)
+comment8.params=
+comment8.target=java.util.List\ getAssignedRooms()
+numComments=9
